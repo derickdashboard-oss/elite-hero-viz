@@ -1,0 +1,18 @@
+{
+  "name": "Elite Hero Viz",
+  "description": "Hero bar with pulse animation",
+  "organization": "derickdashboard-oss",
+  "packageUrl": "https://derickdashboard-oss.github.io/elite-hero-viz/",
+  "sourceUrl": "https://github.com/derickdashboard-oss/elite-hero-viz",
+  "supportUrl": "https://github.com/derickdashboard-oss/elite-hero-viz/issues",
+  "logoUrl": "https://derickdashboard-oss.github.io/elite-hero-viz/logo.png",
+  "components": [
+    {
+      "name": "elite_hero",
+      "description": "Hero performance bar",
+      "resource": {
+        "js": "viz.js"
+      }
+    }
+  ]
+}
