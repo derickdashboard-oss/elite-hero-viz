@@ -1,15 +1,17 @@
 {
   "name": "Elite Hero Viz",
-  "description": "Hero KPI card with pulse glow + conditional colors.",
   "organization": "derickdashboard-oss",
-  "organizationUrl": "https://github.com/derickdashboard-oss",
-  "supportUrl": "https://github.com/derickdashboard-oss/elite-hero-viz/issues",
-  "packageUrl": "https://derickdashboard-oss.github.io/elite-hero-viz/",
+  "description": "Hero KPI card with animated glow.",
   "logoUrl": "https://derickdashboard-oss.github.io/elite-hero-viz/logo.png",
+  "packageUrl": "https://derickdashboard-oss.github.io/elite-hero-viz/",
+  "supportUrl": "https://github.com/derickdashboard-oss/elite-hero-viz/issues",
+  "devMode": true,
   "components": [
     {
+      "id": "hero_kpi",
       "name": "Hero KPI Card",
-      "description": "Single KPI with header and animated glow.",
+      "description": "Single KPI display with pulse glow",
+      "iconUrl": "https://derickdashboard-oss.github.io/elite-hero-viz/logo.png",
       "resource": {
         "js": "https://derickdashboard-oss.github.io/elite-hero-viz/viz.js"
       }
